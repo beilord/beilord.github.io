@@ -1,0 +1,14 @@
+#title{
+    text-align: center; 
+    font-size: 4rem;
+    text-decoration: underline;
+}
+
+#dataSheet{
+    border: 1px solid white;
+    max-width: 60%;
+}
+
+/* #dynamicDiv{
+    background-color: #00bc8c;
+} */
